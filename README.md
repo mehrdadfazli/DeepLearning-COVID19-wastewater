@@ -65,3 +65,17 @@ Finally, we can obtain the feature importance of our TFT model. The feature impo
 <img src="https://github.com/mehrdadfazli/DeepLearning-COVID19-wastewater/blob/main/figs/TFT_Decoder_importance.png" width="500">
 
 *Viral load* is the close second important inpute behind the *containment and health index*. In the decoder variable importance, *stringency index* dominates other variables. It is noteworthy that *stringency index* is *containment and health index* excluding *testing policy* and *contact tracing*. Therefore, we can claim the most important predictor of COVID-19 daily cases is the containment policies by local health officials.
+
+---
+Cite us:
+---
+```
+@misc{fazli2022leveraging,
+      title={Leveraging Wastewater Monitoring for COVID-19 Forecasting in the US: a Deep Learning study}, 
+      author={Mehrdad Fazli and Heman Shakeri},
+      year={2022},
+      eprint={2212.08798},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
