@@ -1,3 +1,7 @@
+[![arxiv](https://img.shields.io/badge/arXiv-2010.16052-red.svg)](https://arxiv.org/abs/2212.08798)
+
+Referenced paper : [Leveraging Wastewater Monitoring for COVID-19 Forecasting in the US: a Deep Learning study](https://arxiv.org/abs/2212.08798)
+
 Leveraging Wastewater Monitoring for COVID-19 Forecasting in the US: a Deep Learning study
 ==========================================================================================
 
