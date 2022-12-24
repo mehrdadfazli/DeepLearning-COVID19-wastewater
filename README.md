@@ -1,5 +1,5 @@
 [![arxiv](https://img.shields.io/badge/arXiv-2010.16052-red.svg)](https://arxiv.org/abs/2212.08798)
-[![researchgate](https://img.shields.io/badge/ResearchGate-HHAR_net-blue.svg?style=flat)](https://www.researchgate.net/publication/366569731_Leveraging_Wastewater_Monitoring_for_COVID-19_Forecasting_in_the_US_a_Deep_Learning_study?channel=doi&linkId=63a7359ac3c99660eb9ff2f2&showFulltext=true)
+[![researchgate](https://img.shields.io/badge/ResearchGate-COVID--19__DL-9cf)](https://www.researchgate.net/publication/366569731_Leveraging_Wastewater_Monitoring_for_COVID-19_Forecasting_in_the_US_a_Deep_Learning_study?channel=doi&linkId=63a7359ac3c99660eb9ff2f2&showFulltext=true)
 
 Referenced paper : [Leveraging Wastewater Monitoring for COVID-19 Forecasting in the US: a Deep Learning study](https://arxiv.org/abs/2212.08798)
 
