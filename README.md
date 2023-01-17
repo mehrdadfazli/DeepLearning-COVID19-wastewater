@@ -3,6 +3,10 @@
 
 Referenced paper : [Leveraging Wastewater Monitoring for COVID-19 Forecasting in the US: a Deep Learning study](https://arxiv.org/abs/2212.08798)
 
+Notebook to follow and reproduce the results: [DeepLearning-COVID-wastewater.ipynb](DeepLearning-COVID-wastewater.ipynb)
+
+A list of all dependencies: [requirement.txt](requirement.txt).
+
 Leveraging Wastewater Monitoring for COVID-19 Forecasting in the US: a Deep Learning study
 ==========================================================================================
 
